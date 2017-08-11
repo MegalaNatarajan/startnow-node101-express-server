@@ -1,0 +1,16 @@
+
+.table-condensed{
+  font-size: 10px;
+  border: 1px solid #cccccc;
+}
+thead th{
+    background:#d9d9d9;
+    height: 40px; 
+    
+}
+tr {
+ border:1px solid #d9d9d9;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
